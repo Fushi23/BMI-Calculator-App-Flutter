@@ -2,7 +2,8 @@
 
 Welcome to the BMI Calculator App, a meticulously designed and crafted tool for calculating your Body Mass Index (BMI). This app is developed using Flutter and Dart within the Android Studio environment.
 
-![BMI Calculator App](https://drive.google.com/uc?id=12PKYSvVmYpyBdIphTED80yvVGd9z900u)
+![BMI Calculator App](https://github.com/user-attachments/assets/73bc8761-6396-49ec-81ab-4322c84e649b)
+
 
 ## Table of Contents
 
